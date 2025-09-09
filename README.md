@@ -77,7 +77,7 @@ instantly see operational patterns.
 
 ## 💡 Key Insights
 
--   **UPI is Uber's backbone** in India → \~40% of all revenue.\
+-   **UPI is Uber's backbone** in Nigeria → \~40% of all revenue.\
 -   **Cancellations are a major risk** (1 in 4 rides never completes).\
 -   **Customer dissatisfaction** peaks at mid-distance rides (wrong
     address, driver delays).\
